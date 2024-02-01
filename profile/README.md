@@ -41,6 +41,20 @@
 > Real MySQL 8.0 1권 & 2권
 > 
 
-[Real MySQL 8.0 (1권)](https://product.kyobobook.co.kr/detail/S000001766482)
 
-[Real MySQL 8.0 (2권)](https://product.kyobobook.co.kr/detail/S000001766483)
+## 스터디 로그
+
+### 1주차 - MySQL 서버 아키텍처
+- [MySQL 설정 파일과 시스템 변수](https://babyshark.tistory.com/20)
+- [MVCC](https://coji.tistory.com/148)
+- [InnoDB 버퍼풀 LRU 리스트](https://duddn.tistory.com/18)
+
+### 2주차 - 트랜잭션, 데이터 압축, 데이터 암호화
+- [MySQL 암호화 알고리즘](https://coji.tistory.com/149)
+- [InnoDB 인덱스 잠금 테스트](https://babyshark.tistory.com/21)
+- [잠금(LOCK)과 MVCC로 보는 InnoDB의 격리수준](https://duddn.tistory.com/19)
+
+### 3주차 - 인덱스
+- [MySQL에 대용량 데이터를 삽입해 인덱스를 사용해보기](https://duddn.tistory.com/20)
+- [B-Tree](https://coji.tistory.com/150)
+- [프라이머리 키가 일반 인덱스보다 특별한 이유 - InnoDB 클러스터링 인덱스](https://babyshark.tistory.com/22)

@@ -58,3 +58,8 @@
 - [MySQL에 대용량 데이터를 삽입해 인덱스를 사용해보기](https://duddn.tistory.com/20)
 - [B-Tree](https://coji.tistory.com/150)
 - [프라이머리 키가 일반 인덱스보다 특별한 이유 - InnoDB 클러스터링 인덱스](https://babyshark.tistory.com/22)
+
+### 4주차 - 옵티마이저와 힌트
+- [옵티마이저의 선택은? 네스티드 루프 조인 vs. 해시 조인](https://babyshark.tistory.com/25)
+- [EXPLAIN 명령어란 뭘까..](https://duddn.tistory.com/21)
+- [리드 어헤드](https://coji.tistory.com/151)

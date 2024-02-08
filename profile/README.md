@@ -17,7 +17,7 @@
 
 ### 시간/장소
 
-- 주 1회 `금요일 오전 10시`
+- 주 1회 `금요일 오전 9시`
 - `디스코드` 온라인 미팅
 
 ### 멤버
@@ -63,3 +63,8 @@
 - [옵티마이저의 선택은? 네스티드 루프 조인 vs. 해시 조인](https://babyshark.tistory.com/25)
 - [EXPLAIN 명령어란 뭘까..](https://duddn.tistory.com/21)
 - [리드 어헤드](https://coji.tistory.com/151)
+
+### 5주차 - 실행 계획
+- [히스토그램 알아보기](https://coji.tistory.com/154)
+- [실행 계획 확인하는 명령어](https://babyshark.tistory.com/27)
+- [서브쿼리란 뭘까..](https://duddn.tistory.com/22)

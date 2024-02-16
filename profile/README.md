@@ -64,7 +64,10 @@
 - [EXPLAIN 명령어란 뭘까..](https://duddn.tistory.com/21)
 - [리드 어헤드](https://coji.tistory.com/151)
 
-### 5주차 - 실행 계획
+### 5주차, 6주차 - 실행 계획
 - [히스토그램 알아보기](https://coji.tistory.com/154)
 - [실행 계획 확인하는 명령어](https://babyshark.tistory.com/27)
 - [서브쿼리란 뭘까..](https://duddn.tistory.com/22)
+- [클러스터링 인덱스의 사실과 오해](https://duddn.tistory.com/23)
+- [실행 계획 - partitions 칼럼](https://coji.tistory.com/155)
+- [커버링 인덱스](https://babyshark.tistory.com/28)

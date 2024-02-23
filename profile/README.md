@@ -71,3 +71,8 @@
 - [클러스터링 인덱스의 사실과 오해](https://duddn.tistory.com/23)
 - [실행 계획 - partitions 칼럼](https://coji.tistory.com/155)
 - [커버링 인덱스](https://babyshark.tistory.com/28)
+
+### 7주차 - 쿼리 작성 및 최적화
+- [지연된 조인(Delayed Join)](https://babyshark.tistory.com/29)
+- [SELECT문의 실행순서를 알아보자](https://duddn.tistory.com/24)
+- [REGEXP, LIKE 연산자](https://coji.tistory.com/156)

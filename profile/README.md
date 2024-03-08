@@ -1,8 +1,8 @@
-# Real MySQL 뿌시기
+# Real MySQL 8.0 뿌시기
 
 > 🪴 Real MySQL 8.0 교재를 활용한 데이터베이스 스터디
 > 
-> 2024.01.05 ~ 2024.03.15 (11주 예정)
+> 2024.01.05 ~ 2024.04.05 (13주 예정)
 
 스터디 진행 현황은 [노션](https://lacy-pirate-0e4.notion.site/Real-MySQL-4c68877d2ded42918bb8f6d0d684a0de?pvs=4)에서 확인
 
@@ -79,3 +79,8 @@
 - [Direct I/O란?](https://coji.tistory.com/157#article-4--ref)
 - [온라인 DDL](https://babyshark.tistory.com/30)
 - [CTE란 무엇인가요?](https://duddn.tistory.com/25)
+
+### 9주차 - 확장검색, 파티션
+- [MySQL Full-Text Search](https://duddn.tistory.com/26)
+- [파티셔닝 정리](https://coji.tistory.com/159)
+- [MySQL 파티셔닝 종류 정리 - RANGE, LIST, HASH, KEY](https://babyshark.tistory.com/31)
